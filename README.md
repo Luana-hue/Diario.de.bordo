@@ -145,3 +145,5 @@ Também foram consultados materiais sobre FCFS, Round-Robin e escalonamento por 
 ---
 
 ## Instrumento Visual de Síntese
+
+![Síntese](https://github.com/Luana-hue/Diario.de.bordo/blob/main/Diagrama%20.drawio.png?raw=true)
